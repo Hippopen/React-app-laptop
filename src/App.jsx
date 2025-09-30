@@ -1,11 +1,13 @@
 import Header from './Header.jsx';
+import Footer from './Footer.jsx';
 
 function App() {
 
   return (
-    <div id="myHeader">
-      <Header></Header>
-    </div>
+    <>
+      <Header/>
+      <Footer/>
+    </>
   )
 }
 

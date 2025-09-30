@@ -2,7 +2,8 @@ function Header(){
     return(
         <header>
                     <h1>My website</h1>
-            <nav>
+            <hr></hr>
+            <nav id="container">
                 <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#">About</a></li>
